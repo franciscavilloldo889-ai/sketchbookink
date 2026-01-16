@@ -1,0 +1,6 @@
+style.css
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+  padding: 40px;
+}
