@@ -1,0 +1,21 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Trazo Libre</title>
+</head>
+<body>
+  <h1>Bienvenido a Trazo Libre</h1>
+  <p>Sketchbooks artesanales hechos a mano.</p>
+
+  <button onclick="saludo()">Click acá</button>
+
+  <script>
+    function saludo() {
+      alert("Gracias por visitar mi página 🎨");
+    }
+  </script>
+</body>
+</html>
